@@ -9,7 +9,7 @@
 #     tag_keys = [
 #            "subnet"
 #     ]
-
+#In this example I am using the 'subnet' as a tag so grafana can easily access individual subnet information.
 #As a bonus ./stats/?health produces a 'health' check that can be integrated with check_json in icinga
 #########
 
